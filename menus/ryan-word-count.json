@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ryan-word-count",
+        "command": "ryan-word-count:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ryan-word-count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ryan-word-count:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

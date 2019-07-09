@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "ryan-word-count:toggle"
   },
-  "repository": "https://github.com/atom/ryan-word-count",
+  "repository": "https://github.com/Ideawizard/AtomPlugin.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
